@@ -1,0 +1,469 @@
+Searching in file: NYE_1.json ...
+
+	# of TWEETERS: 24130
+
+	# of TWEETS: 27845
+
+Searching in file: NYE_2.json ...
+
+	# of TWEETERS: 23208
+
+	# of TWEETS: 27257
+
+Searching in file: NYE_3.json ...
+
+	# of TWEETERS: 23114
+
+	# of TWEETS: 27290
+
+Searching in file: NYE_4.json ...
+
+	# of TWEETERS: 23201
+
+	# of TWEETS: 27324
+
+Searching in file: NYE_5.json ...
+
+	# of TWEETERS: 23124
+
+	# of TWEETS: 27258
+
+Searching in file: NYE_6.json ...
+
+	# of TWEETERS: 23115
+
+	# of TWEETS: 27200
+
+Searching in file: NYE_7.json ...
+
+	# of TWEETERS: 23071
+
+	# of TWEETS: 27138
+
+Searching in file: NYE_8.json ...
+
+	# of TWEETERS: 22904
+
+	# of TWEETS: 27157
+
+Searching in file: NYE_9.json ...
+
+	# of TWEETERS: 22957
+
+	# of TWEETS: 27143
+
+Searching in file: NYE_10.json ...
+
+	# of TWEETERS: 22911
+
+	# of TWEETS: 27184
+
+Searching in file: NYE_11.json ...
+
+	# of TWEETERS: 22806
+
+	# of TWEETS: 27137
+
+Searching in file: NYE_12.json ...
+
+	# of TWEETERS: 23919
+
+	# of TWEETS: 27689
+
+Searching in file: NYE_13.json ...
+
+	# of TWEETERS: 22808
+
+	# of TWEETS: 27133
+
+Searching in file: NYE_14.json ...
+
+	# of TWEETERS: 22802
+
+	# of TWEETS: 27159
+
+Searching in file: NYE_15.json ...
+
+	# of TWEETERS: 22564
+
+	# of TWEETS: 27201
+
+Searching in file: NYE_16.json ...
+
+	# of TWEETERS: 22442
+
+	# of TWEETS: 27113
+
+Searching in file: NYE_17.json ...
+
+	# of TWEETERS: 22390
+
+	# of TWEETS: 27113
+
+Searching in file: NYE_18.json ...
+
+	# of TWEETERS: 8081
+
+	# of TWEETS: 8802
+
+Searching in file: NYE_19.json ...
+
+	# of TWEETERS: 23717
+
+	# of TWEETS: 27546
+
+Searching in file: NYE_20.json ...
+
+	# of TWEETERS: 23450
+
+	# of TWEETS: 27441
+
+Searching in file: NYE_21.json ...
+
+	# of TWEETERS: 23394
+
+	# of TWEETS: 27378
+
+Searching in file: NYE_22.json ...
+
+	# of TWEETERS: 23211
+
+	# of TWEETS: 27286
+
+Searching in file: NYE_23.json ...
+
+	# of TWEETERS: 23176
+
+	# of TWEETS: 27303
+
+Searching in file: NYE_24.json ...
+
+	# of TWEETERS: 22991
+
+	# of TWEETS: 27254
+
+Searching in file: NYE_25.json ...
+
+	# of TWEETERS: 23012
+
+	# of TWEETS: 27284
+
+Searching in file: NYE_26.json ...
+
+	# of TWEETERS: 24284
+
+	# of TWEETS: 28544
+
+Searching in file: NYE_27.json ...
+
+	# of TWEETERS: 23494
+
+	# of TWEETS: 27796
+
+Searching in file: NYE_28.json ...
+
+	# of TWEETERS: 22764
+
+	# of TWEETS: 27607
+
+Searching in file: NYE_29.json ...
+
+	# of TWEETERS: 23063
+
+	# of TWEETS: 27662
+
+Searching in file: NYE_30.json ...
+
+	# of TWEETERS: 2450
+
+	# of TWEETS: 2526
+
+Searching in file: NYE_31.json ...
+
+	# of TWEETERS: 1615
+
+	# of TWEETS: 1646
+
+Searching in file: NYE_32.json ...
+
+	# of TWEETERS: 2142
+
+	# of TWEETS: 2205
+
+Searching in file: NYE_33.json ...
+
+	# of TWEETERS: 10896
+
+	# of TWEETS: 12069
+
+Searching in file: NYE_34.json ...
+
+	# of TWEETERS: 7600
+
+	# of TWEETS: 8108
+
+Searching in file: NYE_35.json ...
+
+	# of TWEETERS: 23067
+
+	# of TWEETS: 27648
+
+Searching in file: NYE_36.json ...
+
+	# of TWEETERS: 23070
+
+	# of TWEETS: 27779
+
+Searching in file: NYE_37.json ...
+
+	# of TWEETERS: 13245
+
+	# of TWEETS: 14673
+
+Searching in file: NYE_38.json ...
+
+	# of TWEETERS: 23098
+
+	# of TWEETS: 27693
+
+Searching in file: NYE_39.json ...
+
+	# of TWEETERS: 7070
+
+	# of TWEETS: 7565
+
+Searching in file: NYE_40.json ...
+
+	# of TWEETERS: 3431
+
+	# of TWEETS: 3550
+
+Searching in file: NYE_41.json ...
+
+	# of TWEETERS: 15161
+
+	# of TWEETS: 17410
+
+Searching in file: NYE_42.json ...
+
+	# of TWEETERS: 2198
+
+	# of TWEETS: 2282
+
+Searching in file: NYE_43.json ...
+
+	# of TWEETERS: 3295
+
+	# of TWEETS: 3467
+
+Searching in file: NYE_44.json ...
+
+	# of TWEETERS: 2421
+
+	# of TWEETS: 2508
+
+Searching in file: NYE_45.json ...
+
+	# of TWEETERS: 13453
+
+	# of TWEETS: 15601
+
+Searching in file: NYE_46.json ...
+
+	# of TWEETERS: 16586
+
+	# of TWEETS: 19755
+
+Searching in file: NYE_47.json ...
+
+	# of TWEETERS: 21704
+
+	# of TWEETS: 27464
+
+Searching in file: NYE_48.json ...
+
+	# of TWEETERS: 23177
+
+	# of TWEETS: 27834
+
+Searching in file: NYE_49.json ...
+
+	# of TWEETERS: 15478
+
+	# of TWEETS: 18704
+
+Searching in file: NYE_50.json ...
+
+	# of TWEETERS: 469
+
+	# of TWEETS: 486
+
+Searching in file: NYE_51.json ...
+
+	# of TWEETERS: 1221
+
+	# of TWEETS: 1248
+
+Searching in file: NYE_52.json ...
+
+	# of TWEETERS: 22475
+
+	# of TWEETS: 27643
+
+Searching in file: NYE_53.json ...
+
+	# of TWEETERS: 22438
+
+	# of TWEETS: 27536
+
+Searching in file: NYE_54.json ...
+
+	# of TWEETERS: 22203
+
+	# of TWEETS: 27507
+
+Searching in file: NYE_55.json ...
+
+	# of TWEETERS: 22190
+
+	# of TWEETS: 27497
+
+Searching in file: NYE_56.json ...
+
+	# of TWEETERS: 22008
+
+	# of TWEETS: 27444
+
+Searching in file: NYE_57.json ...
+
+	# of TWEETERS: 21686
+
+	# of TWEETS: 27449
+
+Searching in file: NYE_58.json ...
+
+	# of TWEETERS: 21321
+
+	# of TWEETS: 27829
+
+Searching in file: NYE_59.json ...
+
+	# of TWEETERS: 19313
+
+	# of TWEETS: 27182
+
+Searching in file: NYE_60.json ...
+
+	# of TWEETERS: 18844
+
+	# of TWEETS: 27161
+
+Searching in file: NYE_61.json ...
+
+	# of TWEETERS: 1237
+
+	# of TWEETS: 1285
+
+Searching in file: NYE_62.json ...
+
+	# of TWEETERS: 21120
+
+	# of TWEETS: 27720
+
+Searching in file: NYE_63.json ...
+
+	# of TWEETERS: 20890
+
+	# of TWEETS: 27622
+
+Searching in file: NYE_64.json ...
+
+	# of TWEETERS: 19411
+
+	# of TWEETS: 25363
+
+Searching in file: NYE_65.json ...
+
+	# of TWEETERS: 20544
+
+	# of TWEETS: 27367
+
+Searching in file: NYE_66.json ...
+
+	# of TWEETERS: 20354
+
+	# of TWEETS: 27301
+
+Searching in file: NYE_67.json ...
+
+	# of TWEETERS: 20296
+
+	# of TWEETS: 27215
+
+Searching in file: NYE_68.json ...
+
+	# of TWEETERS: 19900
+
+	# of TWEETS: 27237
+
+Searching in file: NYE_69.json ...
+
+	# of TWEETERS: 19724
+
+	# of TWEETS: 27159
+
+Searching in file: NYE_70.json ...
+
+	# of TWEETERS: 20796
+
+	# of TWEETS: 28250
+
+Searching in file: NYE_71.json ...
+
+	# of TWEETERS: 20017
+
+	# of TWEETS: 27969
+
+Searching in file: NYE_72.json ...
+
+	# of TWEETERS: 19305
+
+	# of TWEETS: 27789
+
+Searching in file: NYE_73.json ...
+
+	# of TWEETERS: 18747
+
+	# of TWEETS: 27750
+
+Searching in file: NYE_74.json ...
+
+	# of TWEETERS: 18565
+
+	# of TWEETS: 27646
+
+Searching in file: NYE_75.json ...
+
+	# of TWEETERS: 18094
+
+	# of TWEETS: 27604
+
+Searching in file: NYE_76.json ...
+
+	# of TWEETERS: 10327
+
+	# of TWEETS: 14072
+
+Searching in file: NYE_77.json ...
+
+	# of TWEETERS: 189
+
+	# of TWEETS: 191
+
+Searching in file: NYE_78.json ...
+
+	# of TWEETERS: 191
+
+	# of TWEETS: 197
+
+Total Number of TWEETS: 1694450

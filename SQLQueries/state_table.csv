@@ -1,0 +1,68 @@
+name,abbreviation,assoc_press,census_region_name,census_division_name
+Alabama,AL,Ala.,South,East South Central
+Alaska,AK,Alaska,West,Pacific
+Arizona,AZ,Ariz.,West,Mountain
+Arkansas,AR,Ark.,South,West South Central
+California,CA,Calif.,West,Pacific
+Colorado,CO,Colo.,West,Mountain
+Connecticut,CT,Conn.,Northeast,New England
+Delaware,DE,Del.,South,South Atlantic
+Florida,FL,Fla.,South,South Atlantic
+Georgia,GA,Ga.,South,South Atlantic
+Hawaii,HI,Hawaii,West,Pacific
+Idaho,ID,Idaho,West,Mountain
+Illinois,IL,Ill.,Midwest,East North Central
+Indiana,IN,Ind.,Midwest,East North Central
+Iowa,IA,Iowa,Midwest,West North Central
+Kansas,KS,Kan.,Midwest,West North Central
+Kentucky,KY,Ky.,South,East South Central
+Louisiana,LA,La.,South,West South Central
+Maine,ME,Maine,Northeast,New England
+Maryland,MD,Md.,South,South Atlantic
+Massachusetts,MA,Mass.,Northeast,New England
+Michigan,MI,Mich.,Midwest,East North Central
+Minnesota,MN,Minn.,Midwest,West North Central
+Mississippi,MS,Miss.,South,East South Central
+Missouri,MO,Mo.,Midwest,West North Central
+Montana,MT,Mont.,West,Mountain
+Nebraska,NE,Nebr.,Midwest,West North Central
+Nevada,NV,Nev.,West,Mountain
+New Hampshire,NH,N.H.,Northeast,New England
+New Jersey,NJ,N.J.,Northeast,Mid-Atlantic
+New Mexico,NM,N.M.,West,Mountain
+New York,NY,N.Y.,Northeast,Mid-Atlantic
+North Carolina,NC,N.C.,South,South Atlantic
+North Dakota,ND,N.D.,Midwest,West North Central
+Ohio,OH,Ohio,Midwest,East North Central
+Oklahoma,OK,Okla.,South,West South Central
+Oregon,OR,Ore.,West,Pacific
+Pennsylvania,PA,Pa.,Northeast,Mid-Atlantic
+Rhode Island,RI,R.I.,Northeast,New England
+South Carolina,SC,S.C.,South,South Atlantic
+South Dakota,SD,S.D.,Midwest,West North Central
+Tennessee,TN,Tenn.,South,East South Central
+Texas,TX,Texas,South,West South Central
+Utah,UT,Utah,West,Mountain
+Vermont,VT,Vt.,Northeast,New England
+Virginia,VA,Va.,South,South Atlantic
+Washington,WA,Wash.,West,Pacific
+West Virginia,WV,W.Va.,South,South Atlantic
+Wisconsin,WI,Wis.,Midwest,East North Central
+Wyoming,WY,Wyo.,West,Mountain
+Washington DC,DC,,South,South Atlantic
+Puerto Rico,PR,,,
+U.S. Virgin Islands,VI,,,
+American Samoa,AS,,,
+Guam,GU,,,
+Northern Mariana Islands,MP,,,
+Baker Island,,,,
+Howland Island,,,,
+Jarvis Island,,,,
+Johnston Atoll,,,,
+Midway Islands,,,,
+Wake Island,,,,
+Palmyra Atoll,,,,
+Kingman Reef,,,,
+Navassa Island,,,,
+Serranilla Bank,,,,
+Bajo Nuevo Bank,,,,
